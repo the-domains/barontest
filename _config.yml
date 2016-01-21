@@ -1,0 +1,28 @@
+name: barontest
+favicon: null
+layout_spectrum: 0.5515123356599361
+typography_spectrum: 0.7544714717660099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5991520148236305
+  lightness: 0.5077608181163669
+  saturation: 0.30957225640304387
+  rhythmicContrast: 0.9198918887414038
+purpose: []
